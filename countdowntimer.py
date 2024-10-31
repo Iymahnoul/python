@@ -520,7 +520,7 @@ def FoulLanguage():
         print("your comment haas been scanned and is NOT foul")
 
 
-FoulLanguage()
+#FoulLanguage()
 
 
 
